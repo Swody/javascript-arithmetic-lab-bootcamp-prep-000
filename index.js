@@ -23,3 +23,5 @@ function makeInt(n) {
   return parseFloat(n);
 }
 function preserveDecimail(n) {
+  return parseFloat(n);
+}
